@@ -1,2 +1,2 @@
-# Algorithms
-Contains all the algorithms practiced by me
+# Data Structures and Algorithms implementation in C++
+
